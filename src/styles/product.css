@@ -1,0 +1,13 @@
+button{
+    border-color: hsl(14, 62%, 74%);
+}
+.icon{
+    color: hsl(14, 86%, 42%);
+}
+.number{
+    color: hsl(14, 100%, 29%);
+}
+.card:hover{
+    box-shadow: 0 10px 10px 10px hsl(14, 100%, 29%);
+    cursor: pointer;
+}
